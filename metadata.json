@@ -1,0 +1,6 @@
+{
+  "name": "CLAUSESIGNAL",
+  "description": "Premium regulatory intelligence platform for Indian SMEs. Understand what changed and what it means for your business with evidence-backed clause comparisons and action tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
